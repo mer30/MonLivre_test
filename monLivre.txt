@@ -1,4 +1,3 @@
 = Mon Livre
 == Chapitre 1
-Mon proverbe:
-"Pour bien connaître les autres, il faut se connaître d'abord soi-même."
+//TODO : Ecrire le chapitre 1
